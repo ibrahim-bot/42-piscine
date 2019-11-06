@@ -1,0 +1,6 @@
+Credentials cache: API:60997
+        Principal: ichougra@LE-101.FR
+
+  Issued                Expires             Flags    Principal
+Jul 29 16:45:39 2019  Aug  5 16:45:29 2019  FPIA   krbtgt/LE-101.FR@LE-101.FR
+Jul 29 17:02:28 2019  Aug  5 16:45:29 2019  FPA    host/vogsphere.le-101.fr@LE-101.FR
